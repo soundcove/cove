@@ -1,7 +1,7 @@
 {
   "name": "cove",
   "version": "0.0.0",
-  "description": "The JavaScript client library for SoundCove.",
+  "description": "Interact with SoundCove's API in a more robust manor.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
