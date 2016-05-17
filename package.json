@@ -1,6 +1,6 @@
 {
   "name": "soundcove",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create SoundCove clients from JavaScript.",
   "main": "index.js",
   "repository": "soundcove/soundcove.js",
