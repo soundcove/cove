@@ -1,2 +1,6 @@
-# cove
-A JavaScript library to interact with [SoundCove](https://github.com/soundcove)'s API server.  Removes boilerplate JSON parsing and code, as well as a library to wrap the `WebSocket` object designed to interact with SoundCove better.
+# soundcove
+> Create SoundCove clients from JavaScript.
+
+A JavaScript library for interacting with the [API server][api-server].  Removes boilerplate code, as well as an API designed for better interaction with SoundCove.
+
+[api-server]: https://github.com/soundcove/api-server

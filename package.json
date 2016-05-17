@@ -1,24 +1,17 @@
 {
-  "name": "cove",
+  "name": "soundcove",
   "version": "0.0.0",
-  "description": "Interact with SoundCove's API in a more robust manor.",
+  "description": "Create SoundCove clients from JavaScript.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/soundcove/cove.git"
-  },
+  "repository": "soundcove/soundcove.js",
   "keywords": [
     "soundcove",
     "library",
     "music"
   ],
-  "author": "Jamen Marz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/soundcove/cove/issues"
+    "url": "https://github.com/soundcove/soundcove.js/issues"
   },
-  "homepage": "https://github.com/soundcove/cove#readme"
+  "homepage": "https://github.com/soundcove/soundcove.js#readme"
 }
