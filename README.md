@@ -8,7 +8,7 @@ $ npm install soundcove.js
 
 ## Usage
 ```javascript
-import soundcove.js from 'soundcove.js';
+import soundcove from 'soundcove.js';
 ```
 
 ## Credits
